@@ -1,4 +1,4 @@
-# color_finder
+# ColorQuest
 
 The Python project is a color guessing game that generates random RGB values and prompts users to rate colors on a scale from 0 to 10, with the program adjusting bet amounts and updating money accordingly.
 
